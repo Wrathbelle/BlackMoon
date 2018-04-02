@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/Verdana.spritefont</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/transFifth.png</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/TestSprite.png</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/Maps/TestMap.spring</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/28576144_1665475186851165_555471310204724888_n.jpg</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/Avvy.png</File>
+    <File>E:/Development/Black Moon/Black Moon/Black Moon/Content/groundgrass.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

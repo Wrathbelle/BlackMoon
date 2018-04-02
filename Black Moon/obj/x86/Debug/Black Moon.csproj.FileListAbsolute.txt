@@ -1,0 +1,47 @@
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Black Moon.exe.config
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\grassland_tiles.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\ground_tiles.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\test.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\TestingTileset.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\TestMap.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\TestSprite.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\transFifth.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Content\Verdana.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x86\SDL2.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x64\SDL2.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x86\soft_oal.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x64\soft_oal.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x86\libSDL2-2.0.so.0
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x64\libSDL2-2.0.so.0
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x86\libopenal.so.1
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\x64\libopenal.so.1
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\libSDL2-2.0.0.dylib
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\libopenal.1.dylib
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\MonoGame.Framework.dll.config
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Black Moon.exe
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Black Moon.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\MonoGame.Framework.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.XAudio2.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.DXGI.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.Direct3D11.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.Direct2D1.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.XInput.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\MonoGame.Framework.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\MonoGame.Framework.Content.Pipeline.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\Newtonsoft.Json.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.XAudio2.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.DXGI.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.Direct3D11.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.Direct2D1.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.XInput.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Development\Black Moon\Black Moon\Black Moon\obj\x86\Debug\Black Moon.csprojResolveAssemblyReference.cache
+E:\Development\Black Moon\Black Moon\Black Moon\obj\x86\Debug\Black Moon.exe
+E:\Development\Black Moon\Black Moon\Black Moon\obj\x86\Debug\Black Moon.pdb

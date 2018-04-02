@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Development/Black Moon/Black Moon/Black Moon/Content/Verdana.spritefont</SourceFile>
+  <SourceTime>2017-10-18T00:21:01.4305781-07:00</SourceTime>
+  <DestFile>E:/Development/Black Moon/Black Moon/Black Moon/Content/bin/DesktopGL/Verdana.xnb</DestFile>
+  <DestTime>2018-03-25T02:13:53.0324841-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T07:05:36-08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T07:05:36-08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

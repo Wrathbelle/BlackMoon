@@ -1,0 +1,32 @@
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\TestSprite.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\transFifth.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\Verdana.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Black Moon.exe.config
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Black Moon.exe
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Black Moon.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Newtonsoft.Json.dll
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.Content.Pipeline.xml
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Newtonsoft.Json.xml
+E:\Development\Black Moon\Black Moon\Black Moon\obj\Debug\Black Moon.csprojResolveAssemblyReference.cache
+E:\Development\Black Moon\Black Moon\Black Moon\obj\Debug\Black Moon.exe
+E:\Development\Black Moon\Black Moon\Black Moon\obj\Debug\Black Moon.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\28576144_1665475186851165_555471310204724888_n.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\Avvy.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\groundgrass.xnb
+E:\Development\Black Moon\Black Moon\Black Moon\bin\DesktopGL\AnyCPU\Debug\Content\Maps\TestMap.xnb

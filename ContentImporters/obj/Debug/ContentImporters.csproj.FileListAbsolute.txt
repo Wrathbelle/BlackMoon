@@ -1,0 +1,49 @@
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.dll
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+E:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.dll
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.csprojResolveAssemblyReference.cache
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+D:\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.dll
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.dll
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.csprojResolveAssemblyReference.cache
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+E:\Media\Projects\Game Dev\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.dll
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.dll
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.csprojResolveAssemblyReference.cache
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\MonoGame.Framework.dll
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.dll
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+E:\Development\Black Moon\Network Source\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\ContentImporters\bin\Debug\ContentImporters.pdb
+E:\Development\Black Moon\Black Moon\ContentImporters\bin\Debug\Newtonsoft.Json.xml
+E:\Development\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.csprojResolveAssemblyReference.cache
+E:\Development\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.dll
+E:\Development\Black Moon\Black Moon\ContentImporters\obj\Debug\ContentImporters.pdb

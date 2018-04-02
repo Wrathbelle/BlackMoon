@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Development/Black Moon/Black Moon/Black Moon/Content/Maps/TestMap.spring</SourceFile>
+  <SourceTime>2018-03-27T00:37:39.6274045-07:00</SourceTime>
+  <DestFile>E:/Development/Black Moon/Black Moon/Black Moon/Content/bin/DesktopGL/Maps/TestMap.xnb</DestFile>
+  <DestTime>2018-03-31T21:09:08.5739846-07:00</DestTime>
+  <Importer>MapImporter</Importer>
+  <ImporterTime>2018-03-26T18:29:45.4648346-07:00</ImporterTime>
+  <Processor>MapProcessor</Processor>
+  <ProcessorTime>2018-03-26T18:29:45.4648346-07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
